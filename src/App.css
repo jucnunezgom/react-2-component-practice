@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+
+#box {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#box1 {
+  width: 200px;
+  height: 200px;
+  color: black;
+  text-align: center;
+  border: 5px solid white;
+  background-color: #61dafb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
+
+#box2 {
+  width: 200px;
+  height: 200px;
+  color: black;
+  text-align: center;
+  border: 5px solid white;
+  background-color: #8de0cd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
+
+#box3 {
+  width: 200px;
+  height: 200px;
+  color: black;
+  text-align: center;
+  border: 5px solid white;
+  background-color: #d5a2e3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
